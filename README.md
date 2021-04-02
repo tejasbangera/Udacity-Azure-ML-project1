@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is first part of the Udacity Azure ML Nanodegree. 
+This project is a part of the Udacity Azure ML Nanodegree. 
 In this project, we build and optimize an Azure ML pipeline using the Python SDK and a provided Scikit-learn model.
 This model is then compared to an Azure AutoML run.
 
@@ -36,13 +36,13 @@ Accuracy:  0.9111785533636824
 
 ## AutoML
 
-The algorithm pipeline with highest accuracy is VotingEnsemble having accuracy: 0.916578148710167
+The algorithm pipeline with highest accuracy is VotingEnsemble having Accuracy: 0.916578148710167
 
 ## Pipeline comparison
 
 Here AutoML is the winner.
 Ensemble methods are techniques that create multiple models and then combine them to produce improved results. 
-Ensemble methods usually produces more accurate solutions than a single model would that’s why AutoML result of ensemble method is much better as compared to Hyperdrive Logistic Regression model.
+In many cases, ensemble methods produces more accurate solutions than a single model would thatâ€™s why AutoML result of ensemble method is much better as compared to Hyperdrive Logistic Regression model.
 
 
 ## Future work
